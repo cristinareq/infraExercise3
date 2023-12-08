@@ -1,7 +1,7 @@
 param containerRegistryName string
 param location string
 param appServicePlanName string
-param webAppName string = 'crstinareq ex3 webapp'
+param webAppName string = 'cristinaEx3Webapp'
 param containerRegistryImageName string = 'flask-demo'
 param containerRegistryImageVersion string = 'latest'
 @secure()
