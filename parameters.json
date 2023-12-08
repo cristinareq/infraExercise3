@@ -4,11 +4,11 @@
     "parameters": {
 
         "containerRegistryName": {
-            "value": "asaurasacr"
+            "value": "cristinaEx3Registry"
         },
 
         "appServicePlanName": {
-            "value": "asauras-appserviceplan"
+            "value": "cristinaEx3WebappServicePlan"
         },
 
         "location": {
